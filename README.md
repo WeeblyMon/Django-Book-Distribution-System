@@ -1,6 +1,8 @@
 Rumi Press: Book Distribution Management System
 A robust backend-focused Django application for managing book distribution and expense tracking for a publishing company. This project showcases advanced backend development concepts including RESTful API design, authentication systems, data modeling, and automated testing.
 
+![dashboard](https://github.com/user-attachments/assets/879379b7-6bef-4597-a581-d29244f2482c)
+
 
 📚 Features
 Dashboard Analytics: Real-time visualization of distribution expenses across categories
