@@ -11,6 +11,8 @@ Advanced Reporting: Generate detailed reports with filtering by category and dat
 RESTful API: Full API with authentication for integration with other systems
 Data Import/Export: CSV export functionality for reports and book data
 
+![report](https://github.com/user-attachments/assets/e685f877-a2ac-4fb3-ace1-daf25563feb7)
+
 🛠️ Technology Stack
 Backend: Django 5.1, Python 3.11
 REST API: Django Rest Framework
