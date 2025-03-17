@@ -1,0 +1,9 @@
+django
+django-filter
+djangorestframework
+drf-yasg
+gunicorn
+whitenoise
+psycopg2-binary
+python-dotenv
+dj-database-url
